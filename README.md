@@ -3,7 +3,7 @@
 An AI-powered Agile planning assistant that converts client requirements into complete sprint-ready artifacts instantly.
 
 ## 🚀 Live Demo
-[View Live App](https://your-app.vercel.app)
+[View Live App](https://ai-product-owner-agent.vercel.app/)
 
 ---
 
